@@ -63,14 +63,14 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy
 global.owner = ['94714188730'] //ur number 
 global.ownertag = '94714188730' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
+global.botname = '📶 𝗟𝗮𝗹𝗮 𝗭𝗮𝗺𝗮𝗻 📶' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.packname = "📶 𝗟𝗮𝗹𝗮 𝗭𝗮𝗺𝗮𝗻 📶" //ur sticker watermark packname
+global.author = "📶 𝗟𝗮𝗹𝗮 𝗭𝗮𝗺𝗮𝗻 📶" //ur sticker watermark author
 global.menumoji ="💖"
 global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
 global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
